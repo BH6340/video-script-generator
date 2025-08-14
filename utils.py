@@ -45,5 +45,5 @@ def generate_script(subject, video_length, creativity, api_key):
 
     return search_result, title, script
 
-api_key = "sk-72ad321c523c4cf2a874e10f73a11fbf"
+# api_key = "sk-72ad321c523c4cf2a874e10f73a11fbf"
 # print(generate_script("深海恐惧", 1, 0.7, api_key))
